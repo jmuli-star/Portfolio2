@@ -9,3 +9,8 @@
     color: red;
     size: 40pc;
 }
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: underline;
+}
